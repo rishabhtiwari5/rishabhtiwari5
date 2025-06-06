@@ -10,10 +10,10 @@
 I’m a Computer Science student at SRM Institute of Science and Technology, Kattankulathur. Passionate about problem-solving, I am eager to tackle new challenges and contribute to the tech industry.
 
 - 🔭 I’m currently working on Full Stack Web Development Projects.
-- 🌱 I’m actively learning Linux and Advanced JavaScript.
+- 🌱 I’m actively learning AWS Services and Advanced JavaScript.
 - 📚 Exploring Machine Learning and Cloud Computing.
 - 🎯 My goal: Contribute to Open Source and Build Scalable Applications.
-- ⚡ Fun fact: In my free time, I enjoy running, painting and spending time with family
+- ⚡ Fun fact: In my free time, I enjoy running, painting and spending time with family.
 
 #### **Tech Stack**
 
